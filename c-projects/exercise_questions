@@ -1,0 +1,28 @@
+Here are a few exercises and projects you can try to practice your Python skills with lists and arrays:
+    1. Write a function that takes in a list of integers and returns the sum of all the numbers in the list.
+    2. Write a function that takes in a list of strings and returns a new list with all the strings in uppercase.
+    3. Write a function that takes in a list of numbers and returns the median (middle value) of the list. If the list has an even number of elements, return the average of the two middle values.
+    4. Write a program that reads a list of integers from a file and prints out the largest and smallest numbers in the list.
+    5. Write a program that stores a list of your favorite movies and their release years. Then, use the list to print out all the movies released before a certain year (e.g. 2000).
+    6. Write a program that generates a list of random integers and then sorts the list in ascending order.
+    7. Write a program that takes in a list of names and creates a new list with the names reversed (e.g. ["Alice", "Bob"] becomes ["ecilA", "boB"]).
+    8. Write a program that implements the bubble sort algorithm to sort a list of integers.
+    9. Write a program that implements the selection sort algorithm to sort a list of integers.
+    10. Write a program that reads a list of words from a file and prints out all the words that are palindromes (words that are the same backwards and forwards, like "racecar").
+C-exercises
+Write a program that asks the user to input their age, and then prints out how many days old they are.
+    1. Write a program that prompts the user to enter a temperature in degrees Celsius, and then converts and prints the temperature in degrees Fahrenheit.
+       Prompt user to input temperature in Celcius
+       store the value in a temperature variable
+       convert/compute the temperature using an expression: (9/5) * (celcius + 32)
+       print the value to the user
+    2. Write a program that calculates the area and perimeter of a rectangle. The program should ask the user to input the length and width of the rectangle, and then print the calculated area and perimeter.
+       Declare the variables: length, width, area, perimeter
+       prompt the user to input length and width and store the values
+       compute 
+       output the area and perimeter
+       end program
+    3. Write a program that reads in a list of integers and then prints out the smallest and largest values in the list.
+    4. Write a program that simulates a simple calculator. The program should ask the user to enter two numbers and an operator (+, -, *, or /), and then print out the result of the operation.
+    5. Write a program that simulates a simple calculator. The program should ask the user to enter two numbers and an operator (+, -, *, or /), and then print out the result of the operation.
+
